@@ -6,7 +6,9 @@ A Retrieval-Augmented Generation (RAG) chatbot built with **n8n**, **OpenAI**, a
 
 ## 📸 Workflow Screenshot
 
-![RAG Chatbot Workflow](screenshots/workflow.png)
+![RAG Chatbot Workflow]("https://github.com/user-attachments/assets/28e45d05-ac32-4edf-b888-3dfa92bb353e")
+
+
 
 ---
 
